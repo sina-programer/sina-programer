@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on bots & apps
-- 🌱 I’m currently learning C++
+- :monocle_face: I’m a data scientist!
+- 🔭 I’m currently working on bots, apps & ML models
+- 🌱 I’m currently learning C++ & DL
 - 📫 How to reach me: 
-  - [sina_programer](https://t.me/sina_programer) in telegram 
-  - [sina.programer](https://www.instagram.com/sina.programer) in instagram
+  - [sina_programer](https://t.me/sina_programer) in telegram
